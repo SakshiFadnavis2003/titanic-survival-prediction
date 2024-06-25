@@ -1,14 +1,14 @@
 # Titanic Survival Prediction
 
+![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
+
 This repository contains code for predicting survival on the Titanic using machine learning models. The project includes data preprocessing, feature engineering, model selection, hyperparameter tuning with GridSearchCV, and evaluation metrics optimization.
 
 ## Overview
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the RMS Titanic sank after colliding with an iceberg, resulting in the death of 1502 out of 2224 passengers and crew. In this competition hosted on Kaggle, the challenge is to build a predictive model that answers the question: "what sorts of people were more likely to survive?" using passenger data such as name, age, gender, socio-economic class, etc.
+The sinking of the Titanic is one of the most infamous shipwrecks in history. This project aims to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data such as name, age, gender, socio-economic class, etc.
 
 ### Kaggle Competition Details
-
-For more information about the competition and discussions, visit the [Titanic Kaggle Competition Discussion Forum](https://www.kaggle.com/competitions/titanic/discussion?sort=hotness).
+For more information about the Titanic Kaggle competition, visit [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview).
 
 ## Project Structure
 - `train.csv`, `test.csv`: Titanic dataset files used for training and testing.
@@ -28,4 +28,3 @@ For more information about the competition and discussions, visit the [Titanic K
 - numpy
 - scikit-learn
 - imbalanced-learn
-
