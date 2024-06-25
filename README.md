@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-<img src="[IMG_LINK](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)" width="100" height="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg" width="500" height="500"/>
 
 This repository contains code for predicting survival on the Titanic using machine learning models. The project includes data preprocessing, feature engineering, model selection, hyperparameter tuning with GridSearchCV, and evaluation metrics optimization.
 
